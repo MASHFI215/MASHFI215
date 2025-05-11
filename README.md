@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Mashfi
 
-🚀 I'm a passionate Web Developer who loves building modern, responsive websites and web applications using the latest tools and frameworks.
+🚀 # 👋 Hi, I'm Mashfi
+
+🌍 I'm a **Web Developer** with a knack for crafting sleek, responsive websites, but I'm also diving deep into the world of **Machine Learning** to build intelligent, data-driven applications. Combining cutting-edge web technologies with the power of ML is my sweet spot. 🚀
+
 
 ## 🛠 Tech Stack
 
